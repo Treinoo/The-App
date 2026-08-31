@@ -1,0 +1,19 @@
+MATVENN ANDROID - REN PAKKE
+
+Dette er en ny, ryddig versjon UTEN GitHub-workflows eller skjulte .github-mapper.
+
+Du trenger ikke gjøre noe med GitHub nå.
+
+Pakken inneholder kun Android-prosjektet:
+- app/
+- build.gradle.kts
+- settings.gradle.kts
+- gradle.properties
+
+Vi kan senere velge én av disse veiene:
+1. bygge APK sammen via Android Studio
+2. legge prosjektet på GitHub og la GitHub bygge
+3. bruke en annen byggemetode
+
+Viktig:
+Denne ZIP-filen er et prosjekt, ikke en ferdig APK.

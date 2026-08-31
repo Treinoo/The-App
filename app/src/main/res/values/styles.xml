@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.Matvenn" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">#F7F2EA</item>
+        <item name="android:navigationBarColor">#FFFDF9</item>
+    </style>
+</resources>
